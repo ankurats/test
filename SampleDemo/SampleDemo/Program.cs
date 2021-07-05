@@ -6,7 +6,7 @@ namespace SampleDemo
     {
         static void Main(string[] args)
         {
-         
+            Console.WriteLine("First Line");
             Console.WriteLine("Third Changes !!");
         }
     }
